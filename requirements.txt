@@ -1,0 +1,7 @@
+# Required packages for the RSS-based workshop notebook and Python solution
+nltk>=3.9,<4.0
+pandas>=2.0,<3.0
+requests>=2.31,<3.0
+feedparser>=6.0,<7.0
+jupyter>=1.0,<2.0
+ipykernel>=6.0,<7.0

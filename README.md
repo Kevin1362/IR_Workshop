@@ -8,7 +8,6 @@ This project contains a solved version of the **IR Inverted Matrix Workshop**. I
 - Prajesh Bhatt - 9026277
 
 ## Project Files
-- `ir_inverted_matrix_workshop_solution.py` — cleaned Python script with comments
 - `IR_InvertedMatrix_Workshop_Solved.ipynb` — solved Jupyter notebook version
 - `requirements.txt` — packages needed to run the project
 - `IR_InvertedMatrix_Workshop_Notes.md` — summary notes and talking points
